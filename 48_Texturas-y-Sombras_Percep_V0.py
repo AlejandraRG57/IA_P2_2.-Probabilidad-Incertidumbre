@@ -1,4 +1,4 @@
-#Alejandra Rodriguez Guevara 21310127 6E1
+#Alejandra Rodriguez Guevara 21310127 6E1 
 
 #Las texturas se refieren a los patrones repetitivos en una imagen, como los granos de madera o las hojas de un árbol. En el procesamiento de imágenes, 
 #la detección y análisis de texturas son importantes para tareas como clasificación de objetos o reconocimiento de superficies.
